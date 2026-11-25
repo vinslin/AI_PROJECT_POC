@@ -81,8 +81,8 @@ cp example.env .env
 ```env
 # OpenAI
 OPENAI_API_KEY=sk-proj-your-key-here
-OPENAI_TEXT_MODEL=gpt-4o
-OPENAI_VISION_MODEL=gpt-4o
+OPENAI_TEXT_MODEL=gpt-6-luna
+OPENAI_VISION_MODEL=gpt-6-luna
 
 # PostgreSQL
 DB_HOST=localhost
